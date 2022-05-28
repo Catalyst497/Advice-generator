@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot-Desktop.png)
 ![](./Screenshot-mobile.png)
+![](./Screenshot-Desktop.png)
 
 ### Links
 
-- Solution URL: https://github.com/Catalyst497/Advice-generator.git]
-- Live Site URL: [https://catalyst497.github.io/intro-section-with-dropdown-navigation/]
+- Solution URL: [https://github.com/Catalyst497/Advice-generator.git]
+- Live Site URL: [https://catalyst497.github.io/Advice-generator/]
 
 ### Built with
 
